@@ -36,4 +36,4 @@ Connect 4 is a two-player strategy game where the goal is to align four tokens o
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/sajjan15/Application-Development-II-Assignment-1.git
