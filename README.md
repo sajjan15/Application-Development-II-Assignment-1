@@ -1,7 +1,7 @@
 # Application-Development-II-Assignment-1
 # Connect 4 Game in Kotlin
 
-This is a console-based implementation of the classic Connect 4 game, written in Kotlin. The game is designed as part of the **420-952-VM: Application Development 2: Mobile** course assignment.
+This is a console-based implementation of the classic Connect 4 game, written in Kotlin. The game is designed as part of the **Application Development 2: Mobile** course assignment.
 
 ---
 
