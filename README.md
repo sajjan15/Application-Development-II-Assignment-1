@@ -6,9 +6,9 @@ This is a console-based implementation of the classic Connect 4 game, written in
 ---
 
 ## Table of Contents
-[Game Description](#game-description)
-[Features](#features)
-[How to Run](#how-to-run)
+1. [Game Description](#game-description)
+2. [Features](#features)
+3. [How to Run](#how-to-run)
 
 ---
 
